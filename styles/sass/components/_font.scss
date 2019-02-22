@@ -1,0 +1,21 @@
+
+$font-family-title:  'Syne-Extra', sans-serif;
+$font-family-base:  'SpaceGrotesk-Regular', sans-serif ;
+
+@font-face {
+    font-family: 'Syne-Extra';
+    src: url('../fonts/Syne-Extra.woff2') format('woff2'),
+         url('../fonts/Syne-Extra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'SpaceGrotesk-Regular';
+    src: url('../fonts/SpaceGrotesk-Regular.woff2') format('woff2'),
+         url('../fonts/SpaceGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
